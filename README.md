@@ -43,26 +43,39 @@ I am currently building my professional AI portfolio under the brand **AI with J
 
 ---
 
-## Featured Project
+## Featured Public Case Study
 
 ### Neuro-Pedagogía de Precisión (NPP)
+
+**AI-Assisted Learning System | Knowledge Architecture | Intelligent Evaluation**
+
+[View public case study →](https://github.com/aiwithjavier/npp-ai-assisted-learning-system)
 
 **Neuro-Pedagogía de Precisión (NPP)** is a proprietary AI-assisted instructional methodology, digital learning platform, and multimedia educational ecosystem designed to transform complex knowledge into deep, measurable, and actionable learning experiences.
 
 NPP integrates:
 
-* Knowledge Architecture
-* Instructional Systems Design
-* Prompt Engineering
-* Generative AI
-* LLM Workflows
-* Course Creation
-* Learning Delivery
-* Intelligent Evaluation
-* Multimedia Educational Assets
-* Human + AI Collaboration
+- Knowledge Architecture
+- Instructional Systems Design
+- Prompt Engineering
+- Generative AI
+- LLM Workflows
+- Course Creation
+- Learning Delivery
+- Intelligent Evaluation
+- Multimedia Educational Assets
+- Human + AI Collaboration
 
 This project demonstrates my ability to design complete AI-assisted learning systems, not only isolated AI-generated content.
+
+The public case study includes:
+
+- methodology overview
+- platform overview
+- intelligent evaluation model
+- Human + AI collaboration model
+- selected public-safe screenshots
+- public safety notes
 
 ---
 
@@ -153,6 +166,7 @@ Mi trabajo conecta tecnología, educación, arquitectura de conocimiento, prompt
 
 ## Contact
 
-* LinkedIn: Add LinkedIn URL
-* Portfolio: Coming soon
-* GitHub: github.com/aiwithjavier
+- LinkedIn: [www.linkedin.com/in/aiwithjavier](https://www.linkedin.com/in/aiwithjavier/)
+- Featured Case Study: https://github.com/aiwithjavier/npp-ai-assisted-learning-system
+- Portfolio: Coming soon
+- GitHub: github.com/aiwithjavier
