@@ -43,9 +43,9 @@ I am currently building my professional AI portfolio under the brand **AI with J
 
 ---
 
-## Featured Public Case Study
+## Featured Public Case Studies
 
-### Neuro-Pedagogía de Precisión (NPP)
+### 1. Neuro-Pedagogía de Precisión (NPP)
 
 **AI-Assisted Learning System | Knowledge Architecture | Intelligent Evaluation**
 
@@ -68,14 +68,33 @@ NPP integrates:
 
 This project demonstrates my ability to design complete AI-assisted learning systems, not only isolated AI-generated content.
 
-The public case study includes:
+---
 
-- methodology overview
-- platform overview
-- intelligent evaluation model
-- Human + AI collaboration model
-- selected public-safe screenshots
-- public safety notes
+### 2. Human Empowerment
+
+**AI-Assisted Personal Talent Detection | Human Development Workflows | Human + AI Collaboration**
+
+[View public case study →](https://github.com/aiwithjavier/human-empowerment-ai-talent-detection-system)
+
+**Human Empowerment** is a proprietary human development methodology focused on Personal Talent Detection, vocational orientation, professional profiling, leadership insight, organizational talent alignment, and AI-assisted human development workflows.
+
+This public-safe case study demonstrates how AI can support structured analysis, prompt engineering, LLM workflows, privacy-aware documentation, and Human + AI collaboration in sensitive human-centered contexts.
+
+Human Empowerment integrates:
+
+- Personal Talent Detection
+- Human-Centered AI
+- Prompt Engineering
+- LLM Workflow Design
+- AI-Assisted Documentation
+- Vocational Orientation
+- Professional Profiling
+- Leadership Insight
+- Organizational Talent Alignment
+- Privacy-Safe AI Design
+- Human + AI Collaboration
+
+This project demonstrates my ability to design AI-assisted workflows that transform complex human information into structured, ethical, useful, and actionable development insights while preserving human judgment and privacy.
 
 ---
 
@@ -166,7 +185,8 @@ Mi trabajo conecta tecnología, educación, arquitectura de conocimiento, prompt
 
 ## Contact
 
-- LinkedIn: [www.linkedin.com/in/aiwithjavier](https://www.linkedin.com/in/aiwithjavier/)
-- Featured Case Study: https://github.com/aiwithjavier/npp-ai-assisted-learning-system
+- LinkedIn: https://www.linkedin.com/in/aiwithjavier
+- NPP Case Study: https://github.com/aiwithjavier/npp-ai-assisted-learning-system
+- Human Empowerment Case Study: https://github.com/aiwithjavier/human-empowerment-ai-talent-detection-system
+- GitHub: https://github.com/aiwithjavier
 - Portfolio: Coming soon
-- GitHub: github.com/aiwithjavier
