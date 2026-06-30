@@ -51,50 +51,63 @@ I am currently building my professional AI portfolio under the brand **AI with J
 
 [View public case study →](https://github.com/aiwithjavier/npp-ai-assisted-learning-system)
 
-**Neuro-Pedagogía de Precisión (NPP)** is a proprietary AI-assisted instructional methodology, digital learning platform, and multimedia educational ecosystem designed to transform complex knowledge into deep, measurable, and actionable learning experiences.
+**Neuro-Pedagogía de Precisión (NPP)** is a proprietary AI-assisted instructional methodology, digital learning platform, and multimedia educational ecosystem designed to transform complex knowledge into structured, measurable, and actionable learning experiences.
 
-NPP integrates:
+NPP demonstrates:
 
-- Knowledge Architecture
-- Instructional Systems Design
-- Prompt Engineering
-- Generative AI
-- LLM Workflows
-- Course Creation
-- Learning Delivery
-- Intelligent Evaluation
-- Multimedia Educational Assets
-- Human + AI Collaboration
-
-This project demonstrates my ability to design complete AI-assisted learning systems, not only isolated AI-generated content.
+* AI Knowledge Architecture
+* Instructional Systems Design
+* Prompt Engineering
+* LLM Workflows
+* Intelligent Evaluation
+* Multimedia Educational Production
+* Human + AI Collaboration
 
 ---
 
 ### 2. Human Empowerment
 
-**AI-Assisted Personal Talent Detection | Human Development Workflows | Human + AI Collaboration**
+**AI-Assisted Personal Talent Detection | Human Development Workflows | Human-Centered AI**
 
 [View public case study →](https://github.com/aiwithjavier/human-empowerment-ai-talent-detection-system)
 
-**Human Empowerment** is a proprietary human development methodology focused on Personal Talent Detection, vocational orientation, professional profiling, leadership insight, organizational talent alignment, and AI-assisted human development workflows.
+**Human Empowerment** is a proprietary human development methodology presented publicly as an AI-assisted Personal Talent Detection and human development workflow system.
 
-This public-safe case study demonstrates how AI can support structured analysis, prompt engineering, LLM workflows, privacy-aware documentation, and Human + AI collaboration in sensitive human-centered contexts.
+This case study demonstrates how AI can support structured analysis, talent profiling, vocational orientation, professional profiling, leadership insight, organizational alignment, privacy-aware documentation, and Human + AI collaboration.
 
-Human Empowerment integrates:
+Human Empowerment demonstrates:
 
-- Personal Talent Detection
-- Human-Centered AI
-- Prompt Engineering
-- LLM Workflow Design
-- AI-Assisted Documentation
-- Vocational Orientation
-- Professional Profiling
-- Leadership Insight
-- Organizational Talent Alignment
-- Privacy-Safe AI Design
-- Human + AI Collaboration
+* Personal Talent Detection
+* Human-Centered AI
+* Prompt Engineering
+* LLM Workflow Design
+* AI-Assisted Documentation
+* Privacy-Aware AI Workflows
+* Human + AI Collaboration
 
-This project demonstrates my ability to design AI-assisted workflows that transform complex human information into structured, ethical, useful, and actionable development insights while preserving human judgment and privacy.
+---
+
+### 3. AI-Assisted Massive Intellectual Production System
+
+**Large-Scale Knowledge Architecture | Books | Courses | Transformational Learning Programs**
+
+[View public case study →](https://github.com/aiwithjavier/ai-assisted-massive-intellectual-production-system)
+
+**AI-Assisted Massive Intellectual Production System** is a public-safe case study documenting a Human + AI workflow system for large-scale intellectual production across books, courses, curricula, scripts, exercises, visual prompts, multimedia assets, and transformational learning programs.
+
+This project demonstrates how AI can support extended intellectual production while human judgment preserves coherence, authorial voice, pedagogical progression, conceptual continuity, ethical boundaries, and final editorial control.
+
+The system demonstrates:
+
+* AI Knowledge Architecture
+* Prompt Engineering
+* LLM Workflow Design
+* Long-Form Content Architecture
+* Curriculum Architecture
+* Book-to-Course Transformation
+* Editorial Workflow Design
+* Consistency Management
+* Human + AI Collaboration
 
 ---
 
