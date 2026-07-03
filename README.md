@@ -18,6 +18,37 @@ My work connects:
 
 ---
 
+## Live Portfolio
+
+**AI with Javier** is my public professional portfolio and evidence hub.
+
+* Website: [aiwithjavier.com](https://aiwithjavier.com)
+* AI Evidence Navigator: [Find the right evidence for the role you are reviewing](https://aiwithjavier.com/en/ai-navigator)
+* Projects: [Public AI case studies](https://aiwithjavier.com/en/projects)
+* AI Evidence: [Review applied Human + AI evidence](https://aiwithjavier.com/en/ai-evidence)
+* CV / Resume: [Download CV](https://aiwithjavier.com/en/cv)
+* Contact: [Contact Javier](https://aiwithjavier.com/en/contact)
+
+---
+
+## AI Evidence Navigator
+
+The **AI Evidence Navigator** is an interactive guide that helps recruiters, hiring teams and collaborators identify the most relevant public evidence based on the role or professional need they are reviewing.
+
+It connects roles such as **AI Knowledge Architect**, **Prompt Engineer**, **LLM Workflow Designer**, **AI Instructional Designer**, **AI Content Architect**, **Human-Centered AI Specialist** and **Spanish AI Specialist** with:
+
+* recommended public case studies
+* demonstrated skills
+* suggested CV path
+* interview questions
+* next review actions
+
+This first version is a deterministic recommendation tool, not an automated hiring decision system.
+
+[Open AI Evidence Navigator →](https://aiwithjavier.com/en/ai-navigator)
+
+---
+
 ## About Me
 
 I am an AI Knowledge Architect focused on building systems where artificial intelligence works as a strategic co-pilot for thinking, organizing, designing, evaluating, creating, and improving.
@@ -40,6 +71,7 @@ I am currently building my professional AI portfolio under the brand **AI with J
 * AI-assisted course creation
 * Multimedia educational production
 * Human + AI collaboration models
+* recruiter-oriented evidence navigation
 
 ---
 
@@ -133,6 +165,10 @@ Methodologies, frameworks, learning paths, educational content structures, and e
 
 Systems where AI enhances human judgment, creativity, structure, clarity, and decision-making.
 
+### Evidence Navigation Systems
+
+Interactive guidance tools that help reviewers connect roles, capabilities, public case studies, CV paths and interview questions.
+
 ---
 
 ## Core Skills
@@ -194,12 +230,22 @@ Soy Arquitecto de Conocimiento con IA. Diseño sistemas donde la inteligencia ar
 
 Mi trabajo conecta tecnología, educación, arquitectura de conocimiento, prompt engineering, IA generativa y colaboración Humano + IA.
 
+También desarrollé el **Navegador de Evidencia IA**, una guía interactiva para ayudar a reclutadores y colaboradores a encontrar la evidencia pública más relevante según el rol que están evaluando.
+
+* Website: [aiwithjavier.com](https://aiwithjavier.com)
+* Navegador de Evidencia IA: [Abrir guía interactiva](https://aiwithjavier.com/es/navegador-ia)
+* Proyectos: [Casos públicos de IA aplicada](https://aiwithjavier.com/es/proyectos)
+* CV: [Descargar currículum](https://aiwithjavier.com/es/cv)
+* Contacto: [Contactar a Javier](https://aiwithjavier.com/es/contacto)
+
 ---
 
 ## Contact
 
+- Portfolio: https://aiwithjavier.com
+- AI Evidence Navigator: https://aiwithjavier.com/en/ai-navigator
 - LinkedIn: https://www.linkedin.com/in/aiwithjavier
+- GitHub: https://github.com/aiwithjavier
 - NPP Case Study: https://github.com/aiwithjavier/npp-ai-assisted-learning-system
 - Human Empowerment Case Study: https://github.com/aiwithjavier/human-empowerment-ai-talent-detection-system
-- GitHub: https://github.com/aiwithjavier
-- Portfolio: Coming soon
+- Massive Intellectual Production Case Study: https://github.com/aiwithjavier/ai-assisted-massive-intellectual-production-system
